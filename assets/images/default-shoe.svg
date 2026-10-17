@@ -1,0 +1,19 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Default shoe placeholder">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f5e7df"/>
+      <stop offset="100%" stop-color="#e0b89f"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <g transform="translate(120,110)">
+    <path d="M40 220 C 90 120, 220 70, 350 90 L 520 90 C 560 90, 590 120, 600 160 L 620 250 C 628 278, 610 300, 576 300 L 140 300 C 95 300, 52 280, 40 220 Z" fill="#6c413d"/>
+    <path d="M118 130 L 220 130 L 260 210 L 108 210 Z" fill="#8d5a50" opacity="0.8"/>
+    <path d="M282 114 L 414 108 L 446 206 L 284 216 Z" fill="#a9695f" opacity="0.8"/>
+    <path d="M428 120 L 535 120 L 540 208 L 424 210 Z" fill="#7d4d4a" opacity="0.85"/>
+    <path d="M80 300 L 580 300 L 620 360 L 50 360 Z" fill="#2d1b1d"/>
+    <rect x="126" y="304" width="44" height="58" rx="18" fill="#f0d9c6"/>
+    <rect x="316" y="304" width="44" height="58" rx="18" fill="#f0d9c6"/>
+    <rect x="500" y="304" width="44" height="58" rx="18" fill="#f0d9c6"/>
+  </g>
+</svg>
